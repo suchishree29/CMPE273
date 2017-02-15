@@ -9,4 +9,6 @@ This code:
  - Lists all processes that have any socket connections (meaning the laddr and raddr fields exist).
  - Groups them by PID and sorts the output by the number of the connections per process.
  
+ ### Output:
  
+ ![alt tag](https://github.com/suchishree29/CMPE273-Assignment1/blob/master/Lab1-Output_screenshot.PNG)
