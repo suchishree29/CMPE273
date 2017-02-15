@@ -1,7 +1,12 @@
-# CMPE273
-Assignments
-This code does following things:
-Use psutil and implement a network socket monitoring tool that can check how many TCP sockets are being created by a web application.
-Create a Python script called socket-mon.py.
-List all processes that have any socket connections (meaning the laddr and raddr fields exist).
-Group by the PID and sort the output by the number of the connections per process.
+## Assignment1 - Lab1
+
+### What is psutil?
+
+psutil (python system and process utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network) in Python
+
+This code: 
+ - Uses "psutil" and implements a network socket monitoring tool that can check the number of TCP sockets created by a web application.
+ - Lists all processes that have any socket connections (meaning the laddr and raddr fields exist).
+ - Groups them by PID and sorts the output by the number of the connections per process.
+ 
+ 
