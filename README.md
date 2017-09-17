@@ -11,4 +11,4 @@ This code:
  
  ### Output:
  
- ![alt tag](https://github.com/suchishree29/CMPE273-Assignment1/blob/master/Lab1-Output_screenshot.PNG)
+![alt tag](https://github.com/suchishree29/cmpe273-Quiz1/blob/master/Lab1-Output_screenshot.PNG)
